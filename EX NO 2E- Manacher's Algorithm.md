@@ -36,8 +36,8 @@ using Manacher's Algorithm
 
 ```
 /*
-Developed by: Tamizharasi S
-Register Number: 212222040170 
+Developed by: Mena Rossini R
+Register Number: 212222040099 
 */
 
 import java.util.Scanner;
